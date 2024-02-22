@@ -1,4 +1,4 @@
-# Telpochcalli Wiki
+# Telpochcalli / Owltech Wiki
 
 Hi and welcome. 
 
