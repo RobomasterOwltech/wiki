@@ -20,7 +20,7 @@ CANBus is composed for two cables, CAN Dominant and CAN Recessive, usually refer
 
 ![CAN Connection](imgsGuides/CAN_wiring2.png)
 
-Can Bus uses differential signaling, and the difference in voltage across CAN_H and CAN_L is what determines a logical value
+Can Bus uses differential signaling, and the difference in voltage across CAN_H and CAN_L is what determines a logical value. The bus is terminated at each end with the _CAN resistor_, it has a value of 120 Ohm.
 
 [Source](https://danfosseditron.zendesk.com/hc/en-gb/articles/360042232992-CAN-bus-physical-layer)
 
